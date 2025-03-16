@@ -13,8 +13,6 @@ Este projeto é uma simulação de um sistema operacional simples, desenvolvido 
 
 - Preview em tempo real da mudança entre o Modos de Operações;
 
--Sistema
-
 - Código estruturado para simular o comportamento de um sistema operacional, com operações específicas para cada nível de acesso. 
 
 
@@ -67,3 +65,6 @@ Modo atual: kernel
 Criando processo no modo kernel...
 ```
 
+## 🔗 Links
+[![github](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/thauanbo)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thauan-barbosa/)
